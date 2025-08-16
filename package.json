@@ -1,0 +1,7 @@
+{
+  "name": "landscape-supply-images",
+  "version": "1.0.0",
+  "scripts": {
+    "update": "git add . && git commit -m \"update\" && git push"
+  }
+}
